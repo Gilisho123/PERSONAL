@@ -1,6 +1,5 @@
 # PERSONAL
 # 👋 Hi, I'm Gilisho Leteipa!
-A brief intro about you. Mention your interests, tech stack, and what you're currently working on.
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
