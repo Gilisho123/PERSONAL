@@ -1,5 +1,6 @@
 # PERSONAL
 # 👋 Hi, I'm Gilisho Leteipa!
+BSc in Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
 
 ![App Screenshot](./assets/screenshot.png)
 
@@ -10,9 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-18117?style=for-the-badge&logo=github&logoColor=yellow)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 
 ...
 
