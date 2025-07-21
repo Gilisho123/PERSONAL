@@ -1,11 +1,8 @@
 # PERSONAL
 # 👋 Hi, I'm Gilisho Leteipa!
 ![My GitHub Avatar](https://github.com/Gilisho123.png)
+<img src="https://github.com/Gilisho123.png" width="150" style="border-radius: 50%;" alt="My GitHub Avatar"/>
 BSc in Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
-
-![App Screenshot](./assets/screenshot.png)
-
-<img src="assets/ui-preview.png" width="600"/>
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
