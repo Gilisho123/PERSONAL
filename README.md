@@ -1,13 +1,9 @@
 # PERSONAL
 # 👋 Hi, I'm Gilisho Leteipa!
-## 🚀 Screenshot
 
 ![App Screenshot](./assets/screenshot.png)
 
-## 🖼️ UI Preview
-
 <img src="assets/ui-preview.png" width="600"/>
-
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
