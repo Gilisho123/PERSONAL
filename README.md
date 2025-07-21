@@ -1,7 +1,7 @@
 # PERSONAL
 # 👋 Hi, I'm Gilisho Leteipa!
 <img src="https://github.com/Gilisho123.png" width="150" style="border-radius: 50%;" alt="My GitHub Avatar"/>
-## BSc in Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
+BSc in Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
@@ -17,7 +17,7 @@
 ![Gilisho123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilisho123&show_icons=true&theme=github_dark)
 
 ![License](https://img.shields.io/github/license/Gilisho123/plp_see)
-![Stars](https://img.shields.io/github/stars/Gilisho123/Technical_writing)
+![Stars](https://img.shields.io/github/stars/Gilisho123/PERSONAL)
 ![Last Commit](https://img.shields.io/github/last-commit/Gilisho123/plpacademy)
 
 ## 🌱 Currently Learning
