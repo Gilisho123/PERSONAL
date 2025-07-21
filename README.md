@@ -33,7 +33,7 @@ BSc in Statistics and Programming || Software Engineer || Entry-Level Data analy
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gilisho-leteipa-842210374)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github)](https://wa.me/message/IVVKK6GODTC2K1)
+[![GitHub](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github)](https://github.com/Gilisho123)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp)](https://wa.me/message/IVVKK6GODTC2K1)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook)](https://www.facebook.com/statisticianleteipa)
 
