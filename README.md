@@ -9,9 +9,9 @@
 ## 📈 GitHub Stats
 ![Gilisho123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gilisho123&show_icons=true&theme=github_dark)
 
-![License](https://img.shields.io/github/license/username/repo)
-![Stars](https://img.shields.io/github/stars/username/repo)
-![Last Commit](https://img.shields.io/github/last-commit/username/repo)
+![License](https://img.shields.io/github/license/Gilisho123/plp_see)
+![Stars](https://img.shields.io/github/stars/Gilisho123/Technical_writing)
+![Last Commit](https://img.shields.io/github/last-commit/Gilisho123/plpacademy)
 
 ## 🌱 Currently Learning
 - Foundations of Computer Science & Programming
