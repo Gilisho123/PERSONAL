@@ -8,6 +8,7 @@
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql)
 ...
 
 ## 📈 GitHub Stats
