@@ -1,6 +1,6 @@
 # PERSONAL
 # 👋 Hi, I'm Gilisho Leteipa!
-![My GitHub Avatar](https://github.com/<Gilisho123>.png)
+![My GitHub Avatar](https://github.com/Gilisho123.png)
 BSc in Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
 
 ![App Screenshot](./assets/screenshot.png)
