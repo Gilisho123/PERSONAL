@@ -1,5 +1,5 @@
 # PERSONAL
-# 👋 Hi, I'm [Gilisho Leteipa]!
+# 👋 Hi, I'm Gilisho Leteipa!
 A brief intro about you. Mention your interests, tech stack, and what you're currently working on.
 
 ## 🚀 Tech Stack
