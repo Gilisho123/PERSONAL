@@ -23,6 +23,10 @@ BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst 
 ![License](https://img.shields.io/github/license/Gilisho123/plp_see)
 ![Stars](https://img.shields.io/github/stars/Gilisho123/PERSONAL)
 ![Last Commit](https://img.shields.io/github/last-commit/Gilisho123/plpacademy)
+| Name | Description | Tech |
+|------|-------------|------|
+| [📊 Data Dashboard](https://github.com/Gilisho123/data-dashboard) | A dashboard for visualizing time series data | `Plotly`, `Pandas`, `Dash` |
+| [🧠 ML Classifier](https://github.com/Gilisho123/ml-classifier) | A classification model for predicting XYZ | `scikit-learn`, `XGBoost`, `Python` |
 
 ## 🌱 Currently Learning
 - Foundations of Computer Science & Programming
