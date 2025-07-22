@@ -33,30 +33,25 @@ BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gilisho123&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gilisho123&theme=radical&no-frame=false&no-bg=true&margin-w=3)
-
-
-...
-
-## 📈 GitHub Stats
 ![License](https://img.shields.io/github/license/Gilisho123/plp_see)
 ![Stars](https://img.shields.io/github/stars/Gilisho123/PERSONAL)
 ![Last Commit](https://img.shields.io/github/last-commit/Gilisho123/plpacademy)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gilisho123&show_icons=true&theme=github_dark" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilisho123&theme=github-dark&hide_border=true" width="47%"/>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gilisho123&theme=radical&no-frame=false&no-bg=true&margin-w=3)
+
+...
 
 ## 🌱 Currently Learning
 - Foundations of Computer Science & Programming
