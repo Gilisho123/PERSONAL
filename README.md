@@ -1,17 +1,17 @@
 # Gilisho123
 # 👋 Hi, I'm Gilisho Leteipa!
-<img src="https://github.com/Gilisho123.png" width="150" style="border-radius: 50%;" alt="My GitHub Avatar"/>
+<img src="https://github.com/Gilisho123.png" width="150" style="border-radius: 20%;" alt="My GitHub Avatar"/>
 BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
 
 ## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-18117?style=for-the-badge&logo=github&logoColor=yellow)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=plastic&logo=javascript)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-18117?style=plastic&logo=github&logoColor=yellow)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) 
@@ -39,14 +39,12 @@ BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gilisho123&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilisho123&theme=github-dark&hide_border=true" width="47%"/>
+</p>
 ![License](https://img.shields.io/github/license/Gilisho123/plp_see)
 ![Stars](https://img.shields.io/github/stars/Gilisho123/PERSONAL)
 ![Last Commit](https://img.shields.io/github/last-commit/Gilisho123/plpacademy)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gilisho123&show_icons=true&theme=github_dark" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilisho123&theme=github-dark&hide_border=true" width="47%"/>
-</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gilisho123&theme=radical&no-frame=false&no-bg=true&margin-w=3)
