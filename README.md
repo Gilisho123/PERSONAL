@@ -1,7 +1,7 @@
 # PERSONAL
 # 👋 Hi, I'm Gilisho Leteipa!
 <img src="https://github.com/Gilisho123.png" width="150" style="border-radius: 50%;" alt="My GitHub Avatar"/>
-BSc in Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
+BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
 
 ## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
@@ -10,6 +10,10 @@ BSc in Statistics and Programming || Software Engineer || Entry-Level Data analy
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-18117?style=for-the-badge&logo=github&logoColor=yellow)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ...
 
@@ -36,5 +40,7 @@ BSc in Statistics and Programming || Software Engineer || Entry-Level Data analy
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Gilisho123)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp)](https://wa.me/message/IVVKK6GODTC2K1)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook)](https://www.facebook.com/statisticianleteipa)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/leteipagilisho)](https://twitter.com/leteipagilisho)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leteipagilisho@gmail.com)](mailto:leteipagilisho@gmail.com)
 
 
